@@ -7,3 +7,5 @@ Git is free software.
 
 Git is under the GPL.
 Git has a mutable index called stage.
+
+Creating a new branch is quick.
