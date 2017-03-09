@@ -9,4 +9,5 @@ Git is under the GPL.
 Git has a mutable index called stage.
 
 Creating a new branch is quick.
-what a good tool.
+
+what a fucking perfect tool.
